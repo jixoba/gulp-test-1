@@ -1,0 +1,48 @@
+h1 {
+    color: red;
+    background-color: blue;
+    font-size: 30px;
+}
+h2 {
+    color: red;
+    background-color: blue;
+    font-size: 30px;
+}
+h3 {
+    color: red;
+    background-color: blue;
+    font-size: 30px;
+}
+h4 {
+    color: red;
+    background-color: blue;
+    font-size: 30px;
+}
+h5 {
+    color:#ccc000;
+    background-color: blue;
+    font-size: 33px;
+}
+h6 {
+    color: red;
+    background-color: blue;
+    font-size: 32px;
+}
+.wrap {
+
+}
+.wrap ul {
+    overflow: hidden;
+}
+.wrap ul li {
+    float: left;
+    width: 50%;
+    padding-top: 50%;
+    position: relative;
+}
+.wrap ul li img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+}
