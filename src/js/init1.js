@@ -1,6 +1,6 @@
 ;(function(){
     function abc(){
-        console.log('gulp1 test');
+        console.log('gulp1 test1');
     }
     abc();
 })();
